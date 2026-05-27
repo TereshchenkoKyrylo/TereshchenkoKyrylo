@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**TereshchenkoKyrylo/TereshchenkoKyrylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kyrylo, a software developer and data enthusiast.
 
-Here are some ideas to get you started:
+🌱 Learning:  ML for Data Science
+⚡ Interested in: data analysis and its application in business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠 Tech Stack
+
+💻 Python • SQL 
+📊 Pandas • NumPy • Scikit-Learn • TensorFlow
+📈 Plotly • Matplotlib • Seaborn
+⚙️ Excel  • PowerBI
